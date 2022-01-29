@@ -21,5 +21,8 @@ Additionally, I provide 2 plots showing: 1) the residuals by year, and 2) the ac
 ![image](https://user-images.githubusercontent.com/95538088/151666787-d3aaabef-c20a-4e9d-b745-48df137e26b6.png)
 ![image](https://user-images.githubusercontent.com/95538088/151666790-220efbe0-a6bf-4036-9dd9-1b18bd375a65.png)
 
+References:
+Gupta, S., De Mello, L. and Sharan, R., 2001. Corruption and military spending. European journal of political economy, 17(4), pp.749-777.
+
 
 
